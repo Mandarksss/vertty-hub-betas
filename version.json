@@ -1,1 +1,10 @@
-{"beta_version":"1.0.1","domains":"discord.com,youtube.com,steampowered.com,twitch.tv"}
+{
+  "beta_version": "1.0.1",
+  "domains": "discord.com,youtube.com,steampowered.com,twitch.tv",
+  "checker_endpoints": {
+    "discord": "gateway.discord.gg",
+    "youtube": "www.youtube.com",
+    "steam": "store.steampowered.com",
+    "twitch": "www.twitch.tv"
+  }
+}
