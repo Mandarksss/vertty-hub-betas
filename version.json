@@ -1,4 +1,1 @@
-{
-  "beta_version": "1.0.1",
-  "domains": "discord.com, gateway.discord.gg, youtube.com, googlevideo.com, ://steampowered.com, twitch.tv"
-}
+{"beta_version":"1.0.1","domains":"discord.com,youtube.com,steampowered.com,twitch.tv"}
