@@ -1,5 +1,5 @@
 {
-  "beta_version": "1.0.3",
+  "beta_version": "1.0.4",
   "domains": "discord.com,youtube.com,steampowered.com,twitch.tv,roblox.com",
   "checker_endpoints": {
     "discord": "gateway.discord.gg",
