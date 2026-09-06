@@ -1,11 +1,11 @@
 {
-  "beta_version": "1.0.5",
+  "beta_version": "1.0.6",
   "domains": "discord.com,youtube.com,steampowered.com,twitch.tv,roblox.com",
   "checker_endpoints": {
     "discord": "gateway.discord.gg",
-    "youtube": "://youtube.com",
-    "steam": "://steampowered.com",
+    "youtube": "www.youtube.com",
+    "steam": "store.steampowered.com",
     "twitch": "www.twitch.tv",
-    "roblox": "://roblox.com"
+    "roblox": "api.roblox.com"
   }
 }
